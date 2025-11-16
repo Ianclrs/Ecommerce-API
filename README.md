@@ -19,7 +19,7 @@ Link do Vídeo:
 
 - <comando_de_instalação>
 
-#  Windows:
+# 🌐 Windows:
 
   1- Instale a versão com o nome comunidade
 
