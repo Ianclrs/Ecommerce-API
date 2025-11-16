@@ -2,7 +2,7 @@
 Um código que simula um Ecommerce, tendo as principais funções, regras de negócio e feito para aprendizado.
 
 Link do Vídeo:
-> Um código que simula um E-commerce, permitindo ao usuário fazer uma compra de determinados produtos.
+> Um código que simula um E-commerce, permitindo ao usuário fazer compras de determinados produtos.
 ### Encapsulamento e Validações
 
 💽Pré Requisitos:
