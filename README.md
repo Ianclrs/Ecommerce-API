@@ -50,3 +50,16 @@ Agradecemos as seguintes pessoas que colaboram para este projeto:
 
 - Gustavo Ramos -
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="defina o título do link">
+        <img src="https://avatars.githubusercontent.com/u/210450237?v=4"
+             width="130"
+             height="130"
+             style="object-fit: cover; border-radius: 50%;"
+             alt="Foto do Iuri Silva no GitHub"/><br>
+        <sub><b>Ian Carlos de Oliveira Leite </b></sub>
+      </a>
+    </td>
+
