@@ -21,13 +21,13 @@ Link do Vídeo:
 
 # 🌐 Windows:
 
-  1- Instale a versão com o nome comunidade
+    1- Instale a versão com o nome comunidade
 
-  2- Deve-se executar como administrador o aplicativo
+    2- Deve-se executar como administrador o aplicativo
 
-  3- Selecione o campo desenvolvimento para desktop com.NET
+    3- Selecione o campo desenvolvimento para desktop com.NET
 
-  4- Em seguida clique no botão ''Instalar''
+    4- Em seguida clique no botão ''Instalar''
 
 # ☕ Evidencias <E-commerce_API>
 
