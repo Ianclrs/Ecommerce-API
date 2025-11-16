@@ -62,8 +62,6 @@ Agradecemos as seguintes pessoas que colaboram para este projeto:
         <sub><b>Ian Carlos de Oliveira Leite </b></sub>
       </a>
     </td>
-<table>
-  <tr>
     <td align="center">
       <a>
         <img src="https://avatars.githubusercontent.com/u/136202053?v=4"
@@ -74,8 +72,6 @@ Agradecemos as seguintes pessoas que colaboram para este projeto:
         <sub><b>Gustavo Ramos </b></sub>
       </a>
     </td>
-<table>
-  <tr>
     <td align="center">
       <a>
         <img src="https://avatars.githubusercontent.com/u/181295241?v=4"
@@ -86,3 +82,4 @@ Agradecemos as seguintes pessoas que colaboram para este projeto:
         <sub><b>Cristiano Cordeiro </b></sub>
       </a>
     </td>
+</table>
