@@ -53,12 +53,12 @@ Agradecemos as seguintes pessoas que colaboram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="defina o título do link">
+      <a>
         <img src="https://avatars.githubusercontent.com/u/210450237?v=4"
-             width="130"
-             height="130"
-             style="object-fit: cover; border-radius: 50%;"
-             alt="Foto do Iuri Silva no GitHub"/><br>
+             width="150"
+             height="150"
+             style="object-fit: contain; border-radius: 50%;"
+             alt=""/><br>
         <sub><b>Ian Carlos de Oliveira Leite </b></sub>
       </a>
     </td>
