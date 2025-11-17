@@ -102,7 +102,7 @@ Agradecemos as seguintes pessoas que colaboram para este projeto:
     </td>
     <td align="center">
       <a>
-        <img src="https://cdn.discordapp.com/attachments/1419350675640418435/1419421349130276955/411fde07-dba2-407b-a4e2-958fae4e6a3e.jpg?ex=691b86a5&is=691a3525&hm=5feb62fc60a061b81af74b785d0f83dfdc37c78a96be76fe60094f6ae5496f1e&"
+        <img src="https://cdn.discordapp.com/attachments/1439743151396098210/1439772311279501372/Gemini_Generated_Image_byz11fbyz11fbyz1.png?ex=691bbbf4&is=691a6a74&hm=16373383f271e619f4b6cacd758b16e9bc146b13ecc4432cb96f3dbece30583f&"
              width="150"
              height="150"
              style="object-fit: cover; border-radius: 50%;"
