@@ -1,0 +1,45 @@
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\Ian\Downloads\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Ian\Downloads\Ecommerce-API-main-att-dia-19-11 (1)\Ecommerce-API-main-att-dia-19-11\Ecommerce-API-main\Ecommerce-API-main\Ecommerce_API\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\Ian\OneDrive\E-CommerceATT\Ecommerce_API\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
