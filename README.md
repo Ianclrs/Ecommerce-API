@@ -72,7 +72,7 @@ Agradecemos as seguintes pessoas que colaboram para este projeto:
     </td>
     <td align="center">
       <a>
-        <img src="https://cdn.discordapp.com/attachments/1439743151396098210/1439776080880992396/Gemini_Generated_Image_g3hlrog3hlrog3hl.png?ex=691bbf77&is=691a6df7&hm=8a8fcf7669ddc32ce18ca70dd00967d7b59be2e6433331051de7bf210aca846f&"
+        <img src="https://avatars.githubusercontent.com/u/181295241?v=4"
              width="150"
              height="150"
              style="object-fit: cover; border-radius: 50%;"
