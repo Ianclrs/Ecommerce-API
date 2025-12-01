@@ -29,7 +29,7 @@ Link do Vídeo:
 
 # ☕ Evidencias <E-commerce_API>
 - **Calcular Frete**:
-https://github.com/Ianclrs/Ecommerce-API/issues/5#issue-3682645513
+<img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/041d1038-b705-4b10-85d5-96b52f7535f9" />
 
 - **Incluir Produto**:
 
