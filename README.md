@@ -42,7 +42,7 @@ Link do Vídeo:
 
 - **ListarClientes**:
 
-<img width="350" height="350" alt="Image" src="https://private-user-images.githubusercontent.com/210450237/520550587-cb27de6e-57b9-4483-bec9-543a9203d1dc.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ1NTEyNzAsIm5iZiI6MTc2NDU1MDk3MCwicGF0aCI6Ii8yMTA0NTAyMzcvNTIwNTUwNTg3LWNiMjdkZTZlLTU3YjktNDQ4My1iZWM5LTU0M2E5MjAzZDFkYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwMVQwMTAyNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zOGVlMTBkOTk5ZjkzNDdhZWZjYmNhNTg2MThlMDkzZGEzNWQzZDQ2NDA1NzYxZDZhMGNhYTIzNmE0ZmE2Y2MxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Xm3DdCrffqE9WanSins1pNsPmopQEWCmrc83Yoy8w6Y" />
+<img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/a0b8d0d7-e1ac-410d-90a1-4407055a2f35" />
 
 > Na imagem está listando um cliente que estaria no banco de dados e retornando a mensagem de erro.
 
