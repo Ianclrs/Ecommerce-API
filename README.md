@@ -57,7 +57,7 @@ Link do Vídeo:
 
 - **Ecommerce-API** -**Service**- *FreteService*: linha 22, 27, 38, 55.
 
-- **Ecommerce-API** -**Programcs**: linha 5, 12, 19, 24, 28, 31, 37, 40, 45.
+- **Ecommerce-API** -**Program.cs**: linha 5, 12, 19, 24, 27, 31, 34, 40, 43, 48.
 
 - **Infrastructure** -**Repositorios**- *ProdutoRepositoryJson*: 17, 30, 39.
 
