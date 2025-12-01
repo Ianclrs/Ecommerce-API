@@ -30,9 +30,15 @@ Link do Vídeo:
 # ☕ Evidencias <E-commerce_API>
 - **Incluir Produto**:
 
-- Na imagem está incluindo um produto, onde pede o Id, nome, quantidade e o valor do produto.
  <img width="350" height="350" alt="Image" src="https://private-user-images.githubusercontent.com/210450237/520547706-a0b8d0d7-e1ac-410d-90a1-4407055a2f35.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ1NDk4NjEsIm5iZiI6MTc2NDU0OTU2MSwicGF0aCI6Ii8yMTA0NTAyMzcvNTIwNTQ3NzA2LWEwYjhkMGQ3LWUxYWMtNDEwZC05MGExLTQ0MDcwNTVhMmYzNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwMVQwMDM5MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lOTRkYmIxMzA2NzFlNzI2YmQzNzI2M2Q1OTM5N2MxYjQ2ZjY3NjU3NDhkZGEyYjUyMjYxNmU2YjQyYjRhZGJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dmPI6n2JZswSf18Pu1hZHwBo7x4E__vbHOGrIsK3adA" />
 
+ - Na imagem está incluindo um produto, onde pede o Id, Nome, Quantidade e o Valor do Produto.
+
+- **SubTotal do ItemCarrinho**:
+
+ <img width="350" height="350" alt="Image" src="https://private-user-images.githubusercontent.com/210450237/520548686-f1716ce2-cd45-49f4-b033-d33895ba5a7d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ1NTA0NzgsIm5iZiI6MTc2NDU1MDE3OCwicGF0aCI6Ii8yMTA0NTAyMzcvNTIwNTQ4Njg2LWYxNzE2Y2UyLWNkNDUtNDlmNC1iMDMzLWQzMzg5NWJhNWE3ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwMVQwMDQ5MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNTJlM2QxZDVmODEzN2NmOTdlNzU4ZTkxNjkxODlmNThkMTZhYTA2NDU1YTAyN2M2M2E3YWIxZjExZDhmNDAyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hzs80WBpHf7O9WPLOpvCvj1MaZqBBD26NZ6oPEzzogY" />
+
+ - Na imagem está sendo feito o subtotal do ItemCarrinho, onde pede IdItemCarrinho, IdProduto, Quantidade e Preço.
 
 # 📝 Convenções de Marcação <E-commerce_API>
 - **Application** -**DTOs**- *ItemCarrinhoDTO*: linha 2-13.
