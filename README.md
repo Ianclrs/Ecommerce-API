@@ -28,6 +28,9 @@ Link do Vídeo:
   **4- Em seguida clique no botão ''*Instalar*''**
 
 # ☕ Evidencias <E-commerce_API>
+- **Calcular Frete**:
+https://github.com/Ianclrs/Ecommerce-API/issues/5#issue-3682645513
+
 - **Incluir Produto**:
 
  <img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/a0b8d0d7-e1ac-410d-90a1-4407055a2f35" />
