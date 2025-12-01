@@ -4,6 +4,8 @@ Um código que simula um Ecommerce, tendo as principais funções, regras de neg
 Link do Vídeo:
 > Um código que simula um E-commerce, permitindo ao usuário fazer compras de determinados produtos.
 # 🗺️Diagrama UML:
+  <img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/01ff0fe2-aee9-4ed5-9e3b-ef498c2f9956" />
+
   https://www.mermaidchart.com/app/projects/6ac364fa-1e5f-490b-937d-d5079420de03/diagrams/02d42e67-17a9-4ed8-ab8d-977857d0cd98/version/v0.1/edit
 
 # 💽Pré Requisitos:
