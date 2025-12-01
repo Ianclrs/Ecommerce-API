@@ -28,6 +28,10 @@ Link do Vídeo:
   **4- Em seguida clique no botão ''*Instalar*''**
 
 # ☕ Evidencias <E-commerce_API>
+**Incluir Produto**:
+
+Na primeira imagem está incluindo um produto, onde pede o Id, nome, quantidade e o valor do produto.
+<img width="300" height="279" alt="Image" src="file:///C:/Users/Ian/OneDrive/Imagens/Capturas%20de%20tela/Captura%20de%20tela%202025-11-30%20213124.png" />
 
 
 # 📝 Convenções de Marcação <E-commerce_API>
