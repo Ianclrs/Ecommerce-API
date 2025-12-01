@@ -50,15 +50,14 @@ Link do Vídeo:
 > Na imagem está listando um cliente que estaria no banco de dados e retornando a mensagem de erro.
 
 # 📝 Convenções de Marcação <E-commerce_API>
-- **Application** -**DTOs**- *ItemCarrinhoDTO*: linha 2-13.
 
 - **Domain** -**Entidades**- *ItemCarrinho*: linha 10.
 
 - **Domain** -**Helpers**- *Utilitarios*: linha 5, 11, 17, 26, 32, 33, 43.
 
-- **Domain** -**Interface**- *IFrete*: linha 6, 10, 19, 27.
+- **Domain** -**Interface**- *IFreteRepository*: linha 6, 10, 19, 27.
 
-- **Ecommerce-API** -**Controllers**- *CarrinhoController*: linha 24, 31, 35, 39, 48, 53, 57, 70, 74.
+- **Ecommerce-API** -**Controllers**- *CarrinhoController*: linha 24, 31, 35, 39, 48, 53, 57, 71, 75, 90, 94, 108, 112, 128, 132, 146, 150, 164, 168.
 
 - **Ecommerce-API** -**Controllers**- *ClienteController*: linha 46, 50, 59, 67, 71, 75, 91, 95, 99, 108.
 
@@ -66,13 +65,11 @@ Link do Vídeo:
 
 - **Ecommerce-API** -**Controllers**- *ProdutosController*: linha 24, 42, 50, 54, 62, 85.
 
-- **Ecommerce-API** -**Services**- *CarrinhoService*: linha 34, 64.
+- **Ecommerce-API** -**Services**- *CarrinhoService*: linha 84, 116.
 
-- **Ecommerce-API** -**Service**- *ClienteService*: linha 27, 104.
+- **Ecommerce-API** -**Service**- *ClienteService*: linha 29, 106.
 
-- **Ecommerce-API** -**Service**- *FreteService*: linha 22, 27, 38, 55.
-
-- **Ecommerce-API** -**Program.cs**: linha 5, 12, 19, 24, 27, 31, 34, 40, 43, 48.
+- **Ecommerce-API** -**Program.cs**: linha 5, 12, 19, 23, 26, 29, 33, 36, 42, 45, 50.
 
 - **Infrastructure** -**Repositorios**- *ProdutoRepositoryJson*: 17, 30, 39.
 
