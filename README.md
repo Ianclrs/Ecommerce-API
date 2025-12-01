@@ -36,7 +36,7 @@ Link do Vídeo:
 
 - **SubTotal do ItemCarrinho**:
 
- <img width="350" height="350" alt="Image" src="https://private-user-images.githubusercontent.com/210450237/520548686-f1716ce2-cd45-49f4-b033-d33895ba5a7d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ1NTA0NzgsIm5iZiI6MTc2NDU1MDE3OCwicGF0aCI6Ii8yMTA0NTAyMzcvNTIwNTQ4Njg2LWYxNzE2Y2UyLWNkNDUtNDlmNC1iMDMzLWQzMzg5NWJhNWE3ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwMVQwMDQ5MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNTJlM2QxZDVmODEzN2NmOTdlNzU4ZTkxNjkxODlmNThkMTZhYTA2NDU1YTAyN2M2M2E3YWIxZjExZDhmNDAyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hzs80WBpHf7O9WPLOpvCvj1MaZqBBD26NZ6oPEzzogY" />
+ <img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/f1716ce2-cd45-49f4-b033-d33895ba5a7d" />
 
  > Na imagem está sendo feito o subtotal do ItemCarrinho, onde pede IdItemCarrinho, IdProduto, Quantidade e Preço.
 
