@@ -1,7 +1,7 @@
 # Ecommerce-API
 > Um código que simula um Ecommerce, tendo as principais funções, regras de negócio e feito para aprendizado.
 
-Link do Vídeo:
+Link do Vídeo: https://youtu.be/3xR5rMX8hOA
 
 # 🗺️Diagrama UML:
   <img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/01ff0fe2-aee9-4ed5-9e3b-ef498c2f9956" />
