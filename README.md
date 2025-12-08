@@ -4,9 +4,9 @@
 Link do Vídeo: https://youtu.be/3xR5rMX8hOA
 
 # 🗺️Diagrama UML:
-  <img width="350" height="350" alt="Image" src="https://www.mermaidchart.com/d/02d42e67-17a9-4ed8-ab8d-977857d0cd98" />
+  <img width="350" height="350" alt="Image" src="" />
 
-  https://www.mermaidchart.com/app/projects/6ac364fa-1e5f-490b-937d-d5079420de03/diagrams/02d42e67-17a9-4ed8-ab8d-977857d0cd98/version/v0.1/edit
+  https://www.mermaidchart.com/d/02d42e67-17a9-4ed8-ab8d-977857d0cd98
 
 # 💽Pré Requisitos:
 
