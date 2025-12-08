@@ -4,7 +4,7 @@
 Link do Vídeo: https://youtu.be/3xR5rMX8hOA
 
 # 🗺️Diagrama UML:
-  <img width="350" height="350" alt="Image" src="" />
+  <img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/01ff0fe2-aee9-4ed5-9e3b-ef498c2f9956" />
 
   https://www.mermaidchart.com/d/02d42e67-17a9-4ed8-ab8d-977857d0cd98
 
